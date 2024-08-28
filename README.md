@@ -1,4 +1,4 @@
-# Issue Hub
+# Issues Hub
 
 Welcome to the official issue tracker for the [Manjaro Linux](https://manjaro.org/) distribution. This repository is intended to collect and track issues reported by users, helping the Manjaro community improve the distribution. Whether you're experiencing a bug, have a suggestion, or need support, this is the place to report it.
 
